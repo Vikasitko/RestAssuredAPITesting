@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SerializationAndDeserialization.DeserializationJsonDemo">
+      <class name="FileUpload.FileUploadDemo">
         <methods>
-          <include name="createUser"/>
+          <include name="fileUploadDemo"/>
         </methods>
-      </class> <!-- SerializationAndDeserialization.DeserializationJsonDemo -->
+      </class> <!-- FileUpload.FileUploadDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

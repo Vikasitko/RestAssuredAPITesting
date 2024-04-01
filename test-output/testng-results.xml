@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-22T23:28:46 IST" name="Default suite" finished-at="2024-03-22T23:28:49 IST" duration-ms="2223">
+  <suite started-at="2024-03-28T10:14:32 IST" name="Default suite" finished-at="2024-03-28T10:14:34 IST" duration-ms="1747">
     <groups>
     </groups>
-    <test started-at="2024-03-22T23:28:46 IST" name="Default test" finished-at="2024-03-22T23:28:49 IST" duration-ms="2223">
-      <class name="SerializationAndDeserialization.DeserializationJsonDemo">
-        <test-method signature="createUser()[pri:0, instance:SerializationAndDeserialization.DeserializationJsonDemo@6c80d78a]" started-at="2024-03-22T23:28:46 IST" name="createUser" finished-at="2024-03-22T23:28:49 IST" duration-ms="2180" status="PASS">
+    <test started-at="2024-03-28T10:14:32 IST" name="Default test" finished-at="2024-03-28T10:14:34 IST" duration-ms="1747">
+      <class name="JsonIncludeAnnotation.JsonInludeDemo">
+        <test-method signature="testMethod1()[pri:0, instance:JsonIncludeAnnotation.JsonInludeDemo@12468a38]" started-at="2024-03-28T10:14:32 IST" name="testMethod1" finished-at="2024-03-28T10:14:34 IST" duration-ms="1714" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- SerializationAndDeserialization.DeserializationJsonDemo -->
+        </test-method> <!-- testMethod1 -->
+      </class> <!-- JsonIncludeAnnotation.JsonInludeDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
